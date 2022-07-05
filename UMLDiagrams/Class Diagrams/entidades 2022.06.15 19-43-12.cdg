@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="entidades">
+  <ClassDiagramComponents>
+    <Class name="Perro" package="entidades" visibility="public" xPosition="27.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods/>
+    </Class>
+    <Class name="Persona" package="entidades" visibility="public" xPosition="320.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
